@@ -30,6 +30,11 @@ const mangas = [
     name: 'SNK',
     quantity: 10,
   },
+  {
+    id: 6,
+    name: 'JW',
+    quantity: 8,
+  },
 ];
 
 export default function Page() {
