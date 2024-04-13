@@ -23,7 +23,7 @@ const mangas = [
   {
     id: 4,
     name: 'FMA',
-    quantity: 6,
+    quantity: 7,
   },
   {
     id: 5,
